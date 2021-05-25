@@ -1,0 +1,41 @@
+h2{
+    font-family: sans-serif;
+    font-style: italic;
+    color: darkviolet;
+   
+}
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color:darkblue;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:darkcyan;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: black;
+}
+
+p{
+    color: cadetblue;
+    font-family: monospace;
+    font-style: oblique;
+}
+
+h3{
+    color:darkslategray;
+    font-style:italic;
+    font-size: 18px;
+    
+}
